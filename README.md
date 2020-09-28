@@ -1,4 +1,4 @@
-# -kickstarter-analysis
+# An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data and helping Louise with analysis
 ## Viewing the data
 ### Filtering, Formatting and Freezing
